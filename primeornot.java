@@ -1,3 +1,4 @@
+#This is python codes
 #This is example of existing string
 #Here we use "isnumeric" before if condition because we retriew only digits from the string
 
